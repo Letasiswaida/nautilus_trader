@@ -259,7 +259,7 @@ from nautilus_trader.model import Quantity, Price
 from nautilus_trader.indicators import ExponentialMovingAverage
 
 # Events
-from nautilus_trader.model.events import OrderFilled
+from nautilus_trader.model.events import OrderFilled, OrderRejected
 from nautilus_trader.model.events import PositionOpened, PositionClosed
 
 # Logging
